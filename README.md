@@ -1,1 +1,3 @@
-# hugo-sh
+# Information
+
+Shell script for Hugo.
