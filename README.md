@@ -1,3 +1,3 @@
 # Information
 
-Shell script for Hugo.
+Bash script for Hugo.
